@@ -1,0 +1,46 @@
+
+
+main {
+    width: 550px;
+    height: 550px;
+    background-color: #1F2937;
+}
+
+h1 {
+    color: #fff;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+span {
+    color:#4ADF86;
+}
+
+p {
+    color: #D5D4D8;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+button {
+    background-color: #10B981;
+    padding: 9px 16px 9px 16px;
+    border-radius: 6px;
+    border: none;
+    color: #fff
+}
+
+.line {
+    border-bottom: 2px solid #2F3E53;
+    width: 446px;
+    margin-top: 10px;
+}
+
+.psw-container {
+    background-color: #273549;
+    height: 39px;
+    width: 211px;
+    display: inline-block;
+    margin-top: 10px;
+    border-radius: 6px;
+}
