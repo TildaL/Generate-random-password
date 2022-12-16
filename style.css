@@ -1,15 +1,21 @@
 
+body {
+    margin: 0; 
+}
 
 main {
     width: 550px;
     height: 550px;
     background-color: #1F2937;
+    padding-top: 50px;
+    padding-left: 105px;
 }
 
 h1 {
     color: #fff;
     font-size: 40px;
     font-weight: 800;
+    /* margin: 0px; */
 }
 
 span {
@@ -27,7 +33,9 @@ button {
     padding: 9px 16px 9px 16px;
     border-radius: 6px;
     border: none;
-    color: #fff
+    color: #fff;
+    margin-top:20px;
+    margin-bottom: 30px;
 }
 
 .line {
@@ -35,12 +43,18 @@ button {
     width: 446px;
     margin-top: 10px;
 }
+/* 
+.psw-wrapper {
+    display: flex;
+    justify-content: 
+} */
 
 .psw-container {
     background-color: #273549;
     height: 39px;
     width: 211px;
     display: inline-block;
-    margin-top: 10px;
+    margin-top: 30px;
     border-radius: 6px;
+    margin-right: 18px;
 }
